@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcpy.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hibezerr <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: hibezerr <hibezerr@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/10 14:56:32 by hibezerr          #+#    #+#             */
 /*   Updated: 2025/09/11 13:43:59 by hibezerr         ###   ########.fr       */
